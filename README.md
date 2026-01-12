@@ -337,6 +337,3 @@ app.Run();
 - **Repository Pattern**: Design Pattern
 - **Dependency Injection**: IoC Container
 - **Generic Programming**: C# Generics
-
-- إضافة Logging Layer
-- تحسين أداء المستودع
